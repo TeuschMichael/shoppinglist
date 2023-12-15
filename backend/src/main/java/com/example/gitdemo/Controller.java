@@ -17,7 +17,8 @@ public class Controller {
         return List.of(
                 "boter",
                 "Kaas",
-                "Spek"
+                "Scharrel eieren",
+                "Biologisch Sinasappelsap"
         );
     }
 }
