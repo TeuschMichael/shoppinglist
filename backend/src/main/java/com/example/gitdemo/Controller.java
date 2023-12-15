@@ -15,7 +15,8 @@ public class Controller {
         return List.of(
                 "boter",
                 "Kaas",
-                "Eieren"
+                "Scharrel Eieren",
+                "Biologisch Sinasappelsap"
         );
     }
 }
